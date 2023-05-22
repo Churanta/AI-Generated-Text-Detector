@@ -26,4 +26,4 @@ https://user-images.githubusercontent.com/83538805/235755736-1ffab28d-24d7-46f8-
 
 
 ## Contributing
-If you find any bugs or want to suggest improvements, please open an issue or a pull request on this repository.
+If you find any bugs or want to suggest improvements, please open an issue or a pull request on this repository.🙂
